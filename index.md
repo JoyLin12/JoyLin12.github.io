@@ -9,7 +9,7 @@ My GitHub page is http://github.com/JoyLin12.
 
 ### CPSC 120
 
-## Favorite CPSC 120L Labs
+#### Favorite CPSC 120L Labs
 
 * Lab 2
   This is my favorite lab because this is my very first time actually coding. I was very confused at first on what I was suppose to do but after getting some help, I understood how to declare a variable and how to use std::cin and std::cout. It was a very interesting experience.
